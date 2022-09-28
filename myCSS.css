@@ -3,6 +3,7 @@
 body {
 	margin: 0 auto;
 	  font: 100%/1.4  Verdana, Arial, Helvetica, sans-serif;
+	  background-color: #00A166;
 }
 .homePage {
 	background: #71DE86;
@@ -49,7 +50,7 @@ a:link {
      color: #0FDB83;
 }
 a:visited {
-     color: #065C37;
+     color: #44EB57;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
